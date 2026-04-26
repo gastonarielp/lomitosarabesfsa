@@ -1,0 +1,21 @@
+{
+  "name": "Lomitos Árabes FSA",
+  "short_name": "Lomitos FSA",
+  "description": "Los mejores lomitos árabes de Formosa. Pedí online por WhatsApp.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#F57C00",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/logoheader.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "shopping"],
+  "lang": "es",
+  "dir": "ltr"
+}
